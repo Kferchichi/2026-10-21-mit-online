@@ -3,38 +3,72 @@
     <h5>Day 1</h5>
     <table class="table table-striped">
       <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Pre-workshop survey</a> </td> </tr>
-      <tr> <td>09:00</td>  <td>Automating Tasks with the Unix Shell</td> </tr>
-      <tr> <td>10:30</td>  <td>Morning break</td> </tr>
-      <tr> <td>11:00</td>  <td>Automating Tasks with the Unix Shell (Continued)</td> </tr>
-      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
+      <tr> <td>10:00</td>  <td>Welcome, workshop introduction & overview</td> </tr>
+      <tr> <td>10:15</td>  <td>The Unix Shell: Introducing the Shell</td> </tr>
+      <tr> <td>11:15</td>  <td>The Unix Shell: Working With Files and Directories</td> </tr>
+      <tr> <td>11:30</td>  <td>Morning break</td> </tr>
       {% if site.flavor == "r" %}
-      <tr> <td>13:00</td>  <td>Building Programs with R</td> </tr>
-      <tr> <td>14:30</td>  <td>Afternoon break</td> </tr>
-      <tr> <td>15:00</td>  <td>Building Programs with R (Continued)</td> </tr>
+      <tr> <td>12:00</td>  <td>The Unix Shell: Pipes and Filters</td> </tr>
+      <tr> <td>13:00</td>  <td>Lunch break</td> </tr>
+      <tr> <td>14:00</td>  <td>The Unix Shell: Shell Scripts</td> </tr>
       {% elsif site.flavor == "python" %}
-      <tr> <td>13:00</td>  <td>Building Programs with Python</td> </tr>
-      <tr> <td>14:30</td>  <td>Afternoon break</td> </tr>
-      <tr> <td>15:00</td>  <td>Building Programs with Python (Continued)</td> </tr>
+      <tr> <td>15:30</td>  <td>Afternoon break</td> </tr>
+      <tr> <td>16:00</td>  <td>The Unix Shell: Finding Things</td> </tr>
+      <tr> <td>16:50</td>  <td>Wrap-up</td> </tr>
       {% else %}
       {% include warning-flavor.html %}
       {% endif %}
-      <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>16:30</td>  <td>END</td> </tr>
+      <tr> <td>17:00</td>  <td>END</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h5>Day 2</h5>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Version Control with Git</td> </tr>
-      <tr> <td>10:30</td>  <td>Morning break</td> </tr>
-      <tr> <td>11:00</td>  <td>Version Control with Git (Continued)</td> </tr>
-      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td>Managing Data with SQL</td> </tr>
-      <tr> <td>14:30</td>  <td>Afternoon break</td> </tr>
-      <tr> <td>15:00</td>  <td>Managing Data with SQL (Continued)</td> </tr>
-      <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></td> </tr>
-      <tr> <td>16:40</td>  <td>END</td> </tr>
+      <tr> <td>10:00</td>  <td>Version Control with Git</td> </tr>
+      <tr> <td>11:30</td>  <td>Morning break</td> </tr>
+      <tr> <td>12:00</td>  <td>Version Control with Git (Continued)</td> </tr>
+      <tr> <td>13:30</td>  <td>Lunch break</td> </tr>
+      <tr> <td>14:30</td>  <td>Version Control with Git (Continued)</td> </tr>
+      <tr> <td>15:15</td>  <td>Afternoon break</td> </tr>
+      <tr> <td>15:45</td>  <td>Introduction to R and RStudio</td> </tr>
+      <tr> <td>16:15</td>  <td>Project Management With RStudio</td> </tr>
+      <tr> <td>16:50</td>  <td>Wrap-up</td> </tr>
+      {% else %}
+      {% include warning-flavor.html %}
+      {% endif %}
+      <tr> <td>17:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+</div> class="col-md-6">
+    <h5>Day 2</h5>
+    <table class="table table-striped">
+      <tr> <td>10:00</td>  <td>Data Structures in R</td> </tr>
+      <tr> <td>11:30</td>  <td>Morning break</td> </tr>
+      <tr> <td>12:00</td>  <td>Exploring Data Frames in R</td> </tr>
+      <tr> <td>13:30</td>  <td>Lunch break</td> </tr>
+      <tr> <td>14:30</td>  <td>Control Flow in R</td> </tr>
+      <tr> <td>16:00</td>  <td>Afternoon break</td> </tr>
+      <tr> <td>16:30</td>  <td>Creating Publication-Quality Graphics with ggplot2 — Introduction</td> </tr>
+      <tr> <td>16:50</td>  <td>Wrap-up</td> </tr>
+      {% else %}
+      {% include warning-flavor.html %}
+      {% endif %}
+      <tr> <td>17:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+</div> class="col-md-6">
+    <h5>Day 2</h5>
+    <table class="table table-striped">
+      <tr> <td>10:00</td>  <td>Creating Publication-Quality Graphics with ggplot2 — Continued</td> </tr>
+      <tr> <td>11:30</td>  <td>Morning break</td> </tr>
+      <tr> <td>12:00</td>  <td>Functions in R</td> </tr>
+      <tr> <td>13:30</td>  <td>Lunch break</td> </tr>
+      <tr> <td>14:30</td>  <td>Data Frame Manipulation with dplyr & tidyr</td> </tr>
+      <tr> <td>16:00</td>  <td>Afternoon break</td> </tr>
+      <tr> <td>16:30</td>  <td>Producing Reports With knitr</td> </tr>
+      <tr> <td>16:50</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>16:50</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank" rel="noopener noreferrer">Post-workshop Survey</a></td> </tr>
+      <tr> <td>17:00</td>  <td>END</td> </tr>
     </table>
   </div>
 </div>
