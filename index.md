@@ -412,7 +412,7 @@ COLLABORATIVE NOTES
 
 If you want to use an Etherpad, go to
 
-https://pad.carpentries.org/YYYY-MM-DD-site
+[https://pad.carpentries.org/YYYY-MM-DD-site](https://pad.carpentries.org/2026-10-21-mit)
 
 where 'YYYY-MM-DD-site' is the identifier for your workshop,
 e.g., '2015-06-10-esu'.
