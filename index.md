@@ -275,7 +275,7 @@ address.
             </a>
         </p>
         <p>
-            <strong>R for Reproducible Scientific Analysis workshop as part of this series, scheduled on Thursday October 22 and Friday October 23!</strong>
+            <strong>R for Reproducible Scientific Analysis workshop as part of this series, scheduled on Thursday October 22 and Friday October 23, 2026!</strong>
             <a href="https://libcal.mit.edu/calendar/events/2026-10-22-23-R" target="_blank" rel="noopener noreferrer">
                 👉 Register here
             </a>
