@@ -270,7 +270,7 @@ address.
         <dd class="col py-2 px-3 mx-0 mb-0">
            <p>
             <strong>Shell and Git/Github on October 21, 2026!</strong>
-            <a href="[Link_day1](https://libcal.mit.edu/calendar/events/2026-10-21)" target="_blank" rel="noopener noreferrer">
+            <a href="https://libcal.mit.edu/calendar/events/2026-10-21" target="_blank" rel="noopener noreferrer">
                 👉 Register here
             </a>
         </p>
