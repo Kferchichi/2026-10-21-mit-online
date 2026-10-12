@@ -269,13 +269,13 @@ address.
         <dt class="col-sm-2 col-md-2 py-2 px-3 bg-body-light text-body-secondary fw-bold">Registration</dt>
         <dd class="col py-2 px-3 mx-0 mb-0">
            <p>
-            <strong>Shell and Git/Github: Day 1 on October 21, 2026!</strong>
+            <strong>Shell and Git/Github on October 21, 2026!</strong>
             <a href="[Link_day1](https://libcal.mit.edu/calendar/events/2026-10-21)" target="_blank" rel="noopener noreferrer">
                 👉 Register here
             </a>
         </p>
         <p>
-            <strong>R for Reproducible Scientific Analysis: Day 2 & Day 3 on October 22 and 23, 2026!</strong>
+            <strong>R for Reproducible Scientific Analysis on October 22 and 23, 2026!</strong>
             <a href="[Link_day2](https://libcal.mit.edu/calendar/events/2026-10-22-23-R)" target="_blank" rel="noopener noreferrer">
                 👉 Register here
             </a>
