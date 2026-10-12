@@ -269,15 +269,15 @@ address.
         <dt class="col-sm-2 col-md-2 py-2 px-3 bg-body-light text-body-secondary fw-bold">Registration</dt>
         <dd class="col py-2 px-3 mx-0 mb-0">
            <p>
-            <strong>Day 1: On October 21, 2026</strong>
-            <a href="[Shell and Git/Github](https://libcal.mit.edu/calendar/events/2026-10-21)" target="_blank" rel="noopener noreferrer">
-                Register here
+            <strong>Shell and Git/Github: Day 1 on October 21, 2026</strong>
+            <a href="[Link_day1](https://libcal.mit.edu/calendar/events/2026-10-21)" target="_blank" rel="noopener noreferrer">
+                👉 Register here
             </a>
         </p>
         <p>
-            <strong>Day 2:Workshop as part of this series, scheduled on Thursday October 22 and Friday October 23!</strong>
-            <a href="[R for Reproducible Scientific Analysis](https://libcal.mit.edu/calendar/events/2026-10-22-23-R)" target="_blank" rel="noopener noreferrer">
-                Register here
+            <strong>R for Reproducible Scientific Analysis: Day 2 & Day 3 on October 22 and 23!</strong>
+            <a href="[Link_day2](https://libcal.mit.edu/calendar/events/2026-10-22-23-R)" target="_blank" rel="noopener noreferrer">
+                👉 Register here
             </a>
         </p>
     </dd>
